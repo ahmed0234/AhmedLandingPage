@@ -94,7 +94,7 @@ document.querySelectorAll(".elem").forEach((e)=>{
 
 
 Shery.hoverWithMediaCircle(".tip", {
-    images: ["/images/roundpicmine.jpeg", "/images/sippings.JPG"] /*OR*/,
+    images: ["/images/roundpicmine_2_11zon.jpeg", "/images/sippings_4_11zon.jpg"] /*OR*/,
     
   });
 
